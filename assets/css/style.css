@@ -42,7 +42,25 @@ header nav  {
 
 header  li {
     display: inline-block;
-    margin-left: px;
+    margin-left: 10px;
+}
+
+.select-menu1:hover {
+    color: rgb(59, 5, 255);
+    cursor: pointer;
+
+}
+
+.select-menu2:hover {
+    color: rgb(59, 5, 255);
+    cursor: pointer;
+
+}
+
+.select-menu3:hover {
+    color: rgb(59, 5, 255);
+    cursor: pointer;
+
 }
 
 a {
